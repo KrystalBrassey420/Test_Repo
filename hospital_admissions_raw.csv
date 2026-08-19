@@ -1,0 +1,109 @@
+patient_id;first_name;surname;national_id;date_of_birth;disease;severity;admission_status;ward;admission_date;discharge_date
+PAT0084;Benjamin;Maxwell;56042296511080;1956/04/22;COVID-19 (severe);high;Admitted;ICU;2026/01/29;2026/02/06
+PAT0080;James;Flores;99032141200088;1999/03/21;Mild Gastroenteritis;low;Not Admitted;N/A;2026/01/05;
+PAT0045;Jeremy;Holmes;64052314110087;1964/05/23;Migraine;low;Not Admitted;N/A;2026/01/07;
+PAT0078;Raymond;Freeman;24082647840081;2024/08/26;Common Cold;low;Admitted;Outpatients;2026/07/03;2026/07/04
+PAT0020;Paul;Barnett;32100319110087;1932/10/03;Hypertension (uncontrolled);medium;Admitted;General Ward;2026/04/13;2026/04/15
+PAT0022;David;Wright;67100337400186;1967/10/03;Myocardial Infarction;high;Admitted;Cardiac Ward;2026/07/12;2026/07/14
+PAT0011;Shawn;Evans;6013063511182;2006/01/30;COVID-19 (severe);high;Admitted;Cardiac Ward;2026/06/04;2026/06/05
+PAT0051;Christopher;Guerrero;17011655941086;2017/01/16;Mild Gastroenteritis;low;Not Admitted;N/A;2026/06/22;
+PAT0039;Andrew;Tapia;80101961971185;1980/10/19;Sprained Ankle;low;Not Admitted;N/A;2026/02/02;
+PAT0013;Jessica;Roberts;23092555631084;2023/09/25;COVID-19 (severe);high;Admitted;Emergency Ward;2026/01/27;2026/02/07
+PAT0095;John;Smith;40498261085;2000/04/04;Stroke;high;Admitted;CARDIAC WARD;2026/05/02;2026/05/16
+PAT0054;Richard;Arroyo;99062113220188;1999/06/21;Myocardial Infarction;high;Admitted;Cardiac Ward;2026/02/07;2026/02/14
+PAT0034;Craig;Cox;33011379871083;1933/01/13;Migraine;low;Not Admitted;N/A;2026/07/13;
+PAT0081;Angela;Alexander;32050170651084;1932/05/01;Asthma Exacerbation;medium;Not Admitted;N/A;2026/03/15;
+PAT0084;Benjamin;Maxwell;56042296511080;1956/04/22;COVID-19 (severe);high;Admitted;ICU;2026/01/29;2026/02/06
+PAT0093;Larry;Torres;2100759901180;2002/10/07;Pneumonia;high;Admitted;Cardiac Ward;2026/03/06;2026/03/20
+PAT0070;Cheyenne;Wagner;79040999051084;1979/04/09;Seasonal Flu;low;Not Admitted;N/A;2026/06/03;
+PAT0062;Michael;Ellis;86011227780184;1986/01/12;Sprained Ankle;low;Admitted;Outpatients;2026/07/19;2026/07/20
+PAT0004;Roger;Serrano;42051718280089;1942/05/17;Myocardial Infarction;high;Admitted;ICU;2026/02/19;2026/02/23
+PAT0014;Robert;Sherman;45011904970189;1945/01/19;Severe Sepsis;high;Admitted;Cardiac Ward;2026/04/19;2026/05/01
+PAT0024;Lori;Shields;57012363291085;1957/01/23;Seasonal Flu;low;Not Admitted;N/A;2026/04/02;
+PAT0075;Charles;Caldwell;5020174921081;2005/02/01;Sprained Ankle;low;Not Admitted;N/A;2026/07/18;
+PAT0033;Matthew;Williams;30082102280187;1930/08/21;Kidney Stones;medium;Admitted;Observation;2026/02/03;2026/02/07
+PAT0057;Michael;Dunn;43012291961081;1943/01/22;Asthma Exacerbation;medium;Not Admitted;N/A;2026/01/04;
+PAT0063;Robert;Hardin;78040921450082;1978/04/09;Type 2 Diabetes (unstable);medium;Not Admitted;N/A;2026/04/28;
+PAT0079;Evan;Reynolds;79080686971080;1979/08/06;Asthma Exacerbation;medium;Admitted;General Ward;2026/03/16;2026/03/20
+PAT0099;Matthew;Collier;97100286931084;1997/10/02;COVID-19 (severe);high;Admitted;ICU;2026/05/21;2026/05/30
+PAT0021;Gary;Wilson;36031993791189;1936/03/19;Pneumonia;high;Admitted;ICU;2026/06/19;2026/07/01
+PAT0060;Johnathan;Carter;53061922860082;1953/06/19;Stroke;high;Admitted;ICU;2026/05/10;2026/05/15
+PAT0037;Steven;Webb;38101057101187;1938/10/10;Myocardial Infarction;high;Admitted;Emergency Ward;2026/01/23;2026/01/25
+PAT0019;Deborah;Kaiser;8091181161082;2008/09/11;Mild Gastroenteritis;low;Not Admitted;N/A;2026/03/04;
+PAT0042;Gary;Ingram;81031871241182;1981/03/18;Seasonal Flu;low;Not Admitted;N/A;2026/06/22;
+PAT0059;Ryan;Wiggins;9020522150086;2009/02/05;Kidney Stones;medium;Admitted;Observation;2026/02/16;2026/02/19
+PAT0091;Joseph;Anderson;80090282281082;1980/09/02;Common Cold;low;Not Admitted;N/A;2026/02/22;
+PAT0066;Jessica;Hawkins;61080142120183;1961/08/01;Severe Sepsis;high;Admitted;ICU;2026/04/25;2026/05/06
+PAT0006;Theresa;Williams;12030246760188;2012/03/02;Hypertension (uncontrolled);medium;Admitted;General Ward;2026/03/06;2026/03/09
+PAT0061;Jordan;Barnes;43012507250181;1943/01/25;Asthma Exacerbation;medium;Admitted;General Ward;2026/07/21;2026/07/25
+PAT0062;Michael;Ellis;86011227780184;1986/01/12;Sprained Ankle;low;Admitted;OUTPATIENTS;2026/07/19;2026/07/20
+PAT0076;Eric;Moran;93050476711182;1993/05/04;Fractured Limb;medium;Not Admitted;N/A;2026/02/01;
+PAT0095;John;Smith;40498261085;2000/04/04;Stroke;high;Admitted;Cardiac Ward;2026/05/02;2026/05/16
+PAT0010;Erin;Patterson;60061678131184;1960/06/16;Mild Gastroenteritis;low;Not Admitted;N/A;2026/05/10;
+PAT0015;Benjamin;Barnett;3040178421087;2003/04/01;Acute Appendicitis;high;Admitted;ICU;2026/05/07;2026/05/17
+PAT0007;Drew;Wilson;59120344870089;1959/12/03;Seasonal Flu;low;Not Admitted;N/A;2026/06/30;
+PAT0016;Nancy;Edwards;96090140440083;1996/09/01;Fractured Limb;medium;Admitted;General Ward;2026/05/12;2026/05/16
+PAT0029;Zachary;Williamson;94110816810182;1994/11/08;Common Cold;low;Not Admitted;N/A;2026/01/12;
+PAT0030;Rachel;Deleon;13091057451188;2013/09/10;Acute Appendicitis;high;Admitted;ICU;2026/06/26;2026/07/02
+PAT0092;Daniel;Martin;35052783211182;1935/05/27;Stroke;high;Admitted;Cardiac Ward;2026/02/14;2026/02/21
+PAT0090;Shawn;Morgan;83022649420181;1983/02/26;Acute Appendicitis;high;Admitted;ICU;2026/07/24;2026/08/01
+PAT0005;Courtney;Meza;85060945600084;1985/06/09;Stroke;high;Admitted;ICU;2026/03/29;2026/04/07
+PAT0001;Mario;Hernandez;92061462351180;1992/06/14;Mild Gastroenteritis;low;Not Admitted;N/A;2026/01/17;
+PAT0069;Anna;Wolf;17042005790186;2017/04/20;Hypertension (uncontrolled);medium;Admitted;Observation;2026/04/08;2026/04/13
+PAT0038;Matthew;Baker;9051013920080;2009/05/10;Sprained Ankle;low;Not Admitted;N/A;2026/02/05;
+PAT0094;Vincent;Thompson;63073159831080;1963/07/31;Fractured Limb;medium;Admitted;General Ward;2026/01/05;2026/01/09
+PAT0067;Angela;Mueller;40091090551188;1940/09/10;Fractured Limb;medium;Admitted;General Ward;2026/05/04;2026/05/07
+PAT0083;Kristina;Bonilla;40072653821081;1940/07/26;Sprained Ankle;low;Not Admitted;N/A;2026/02/28;
+PAT0046;Anthony;Ramirez;55032892461181;1955/03/28;Seasonal Flu;low;Not Admitted;N/A;2026/06/03;
+PAT0097;Lori;Reynolds;77082285731183;1977/08/22;Acute Appendicitis;high;Admitted;Cardiac Ward;2026/07/04;2026/07/05
+PAT0089;Christopher;Chase;36121047630082;1936/12/10;Kidney Stones;medium;Not Admitted;N/A;2026/07/10;
+PAT0009;Amy;Brown;36041174551082;1936/04/11;Asthma Exacerbation;medium;Admitted;Observation;2026/02/15;2026/02/20
+PAT0002;Amanda;Diaz;36021529950088;1936/02/15;Type 2 Diabetes (unstable);medium;Admitted;Observation;2026/04/23;2026/04/27
+PAT0077;Nicole;Ponce;51062303580188;1951/06/23;Sprained Ankle;low;Not Admitted;N/A;2026/07/30;
+PAT0086;Edward;Calhoun;84102788061187;1984/10/27;Migraine;low;Not Admitted;N/A;2026/06/04;
+PAT0052;Karen;Woods;47072960021085;1947/07/29;Sprained Ankle;low;Not Admitted;N/A;2026/06/24;
+PAT0040;Amy;Johnson;80101301750081;1980/10/13;Sprained Ankle;low;Not Admitted;N/A;2026/08/05;
+PAT0056;Dustin;Serrano;23092986081086;2023/09/29;Pneumonia;high;Admitted;Emergency Ward;2026/05/26;2026/06/05
+PAT0031;Philip;Ross;40061343620183;1940/06/13;Type 2 Diabetes (unstable);medium;Not Admitted;N/A;2026/05/21;
+PAT0052;Karen;Woods;47072960021085;1947/07/29;Sprained Ankle;low;Not Admitted;N/A;2026/06/24;
+PAT0087;Christopher;Brown;95123025530087;1995/12/30;Common Cold;low;Not Admitted;N/A;2026/04/04;
+PAT0033;Matthew;Williams;30082102280187;1930/08/21;Kidney Stones;medium;Admitted;Observation;2026/02/03;2026/02/07
+PAT0082;Claire;Hunt;36092018900187;1936/09/20;Myocardial Infarction;high;Admitted;ICU;2026/08/06;2026/08/14
+PAT0096;Jaime;Wells;19052922980080;2019/05/29;Fractured Limb;medium;Admitted;General Ward;2026/01/24;2026/01/26
+PAT0028;Mike;Knight;21022708370184;2021/02/27;COVID-19 (severe);high;Admitted;Emergency Ward;2026/06/02;2026/06/05
+PAT0085;Robert;Pruitt;8060158151087;2008/06/01;Fractured Limb;medium;Not Admitted;N/A;2026/02/27;
+PAT0065;Adam;Lloyd;46122722160180;1946/12/27;Kidney Stones;medium;Admitted;General Ward;2026/04/15;2026/04/20
+PAT0017;Bethany;Bryant;10053190671082;2010/05/31;Severe Sepsis;high;Admitted;Cardiac Ward;2026/07/28;2026/08/06
+PAT0047;Sue;West;19081953451088;2019/08/19;Severe Sepsis;high;Admitted;Emergency Ward;2026/08/07;2026/08/08
+PAT0074;David;Ramos;37070457351086;1937/07/04;Seasonal Flu;low;Not Admitted;N/A;2026/02/23;
+PAT0036;Michael;Martinez;11040756941086;2011/04/07;Type 2 Diabetes (unstable);medium;Admitted;General Ward;2026/08/08;2026/08/12
+PAT0064;Alexandra;Smith;72060493501084;1972/06/04;Severe Sepsis;high;Admitted;Emergency Ward;2026/02/10;2026/02/21
+PAT0008;Henry;Perkins;91042493551185;1991/04/24;Severe Sepsis;high;Admitted;Emergency Ward;2026/03/24;2026/04/01
+PAT0039;Andrew;Tapia;80101961971185;1980/10/19;Sprained Ankle;low;Not Admitted;N/A;2026/02/02;
+PAT0035;Christina;Hernandez;54073127660087;1954/07/31;Common Cold;low;Not Admitted;N/A;2026/03/18;
+PAT0049;James;Harris;89112591591088;1989/11/25;Kidney Stones;medium;Not Admitted;N/A;2026/07/18;
+PAT0027;Brianna;Baker;31010239980187;1931/01/02;COVID-19 (severe);high;Admitted;Cardiac Ward;2026/04/03;2026/04/05
+PAT0068;John;Hill;3122411440185;2003/12/24;Seasonal Flu;low;Not Admitted;N/A;2026/04/23;
+PAT0088;Charles;Mays;90112041500184;1990/11/20;Myocardial Infarction;high;Admitted;ICU;2026/06/27;2026/07/01
+PAT0050;Mary;Mendoza;92082436660086;1992/08/24;Migraine;low;Not Admitted;N/A;2026/06/26;
+PAT0053;Marvin;Owen;22120338310081;2022/12/03;Myocardial Infarction;high;Admitted;Cardiac Ward;2026/03/29;2026/04/01
+PAT0003;Benjamin;Hamilton;37040119710088;1937/04/01;Stroke;high;Admitted;ICU;2026/01/21;2026/02/04
+PAT0026;Gregory;Hall;52101262161185;1952/10/12;Acute Appendicitis;high;Admitted;Cardiac Ward;2026/04/18;2026/04/20
+PAT0073;Anita;Harding;10060156871184;2010/06/01;Type 2 Diabetes (unstable);medium;Admitted;General Ward;2026/01/31;2026/02/01
+PAT0034;Craig;Cox;33011379871083;1933/01/13;Migraine;low;Not Admitted;N/A;2026/07/13;
+PAT0048;Stephanie;Diaz;51072336310189;1951/07/23;Type 2 Diabetes (unstable);medium;Admitted;Observation;2026/02/20;2026/02/25
+PAT0031;Philip;Ross;40061343620183;1940/06/13;Type 2 Diabetes (unstable);medium;Not Admitted;N/A;2026/05/21;
+PAT0041;Michelle;Horton;55060317280084;1955/06/03;Type 2 Diabetes (unstable);medium;Admitted;General Ward;2026/03/23;2026/03/28
+PAT0100;Richard;Bailey;35101313980186;1935/10/13;Pneumonia;high;Admitted;Cardiac Ward;2026/01/29;2026/02/03
+PAT0072;Holly;Mcdowell;20021470021084;2020/02/14;Type 2 Diabetes (unstable);medium;Admitted;General Ward;2026/02/27;2026/03/02
+PAT0044;Melissa;Shaffer;8051036050089;2008/05/10;Common Cold;low;Not Admitted;N/A;2026/06/13;
+PAT0023;Christopher;Cole;82102482801083;1982/10/24;Mild Gastroenteritis;low;Not Admitted;N/A;2026/07/15;
+PAT0012;John;Andrews;80070445710185;1980/07/04;Acute Appendicitis;high;Admitted;Emergency Ward;2026/07/13;2026/07/21
+PAT0032;Bryan;Jones;50061268571088;1950/06/12;COVID-19 (severe);high;Admitted;Cardiac Ward;2026/02/05;2026/02/17
+PAT0025;Michael;Henson;21080743950085;2021/08/07;Common Cold;low;Admitted;Outpatients;2026/02/03;2026/02/08
+PAT0071;Shaun;Ferguson;76011122030180;1976/01/11;Kidney Stones;medium;Admitted;Observation;2026/07/28;2026/08/02
+PAT0018;Thomas;Beck;36051861211188;1936/05/18;Kidney Stones;medium;Not Admitted;N/A;2026/06/05;
+PAT0055;David;Hernandez;16072929210181;2016/07/29;Acute Appendicitis;high;Admitted;ICU;2026/06/28;2026/07/04
+PAT0058;Tara;Santos;80082106880184;1980/08/21;Seasonal Flu;low;Not Admitted;N/A;2026/07/26;
+PAT0098;Phillip;Hunter;95121395391081;1995/12/13;Seasonal Flu;low;Not Admitted;N/A;2026/08/06;
+PAT0043;Mark;Walker;7091687531188;2007/09/16;Sprained Ankle;low;Not Admitted;N/A;2026/08/06;
